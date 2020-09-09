@@ -9,7 +9,7 @@
     "gatsby-theme-blog-core": "^2.0.1"
   },
   "dependencies": {
-    "lodash.kebabcase": "^4.1.1"
+    "lodash.kebabcase": "4.1.1"
   },
   "keywords": [
     "gatsby",
